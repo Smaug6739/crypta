@@ -1,0 +1,5 @@
+token = "TELEGRAM_BOT_TOKEN"
+# rootPrices = "https://min-api.cryptocompare.com/data/price?fsym={{CRYPTO}"
+rootPrices = "https://min-api.cryptocompare.com/data/pricemulti?fsyms={{CRYPTO}}&tsyms=USD,EUR"
+fiats = ['USD','EUR']
+alloweds = ['BTC','ETH','LTC','ADA','BCH','TRX','BNB']
