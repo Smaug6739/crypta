@@ -4,7 +4,7 @@ Crypta is a telegram bot for get the prices in euro or dollar of crypto currenci
 
 Commands :
 
-- ping : Ping the bot (reply with `Pong !` if bot is online)
+- ping : Ping the bot (reply with `Pong !` if bot is online).
 - info [CRYPTO] : Get value of specific crypto currency.
 
 Availables currencies :
